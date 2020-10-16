@@ -8,7 +8,7 @@ pkg install python git
 pip install requests bs4 futures
 git clone https://github.com/dz-id/smbf
 cd smbf
-python smbf.py
+python mbf.py
 ```
 
 ## screenshot
